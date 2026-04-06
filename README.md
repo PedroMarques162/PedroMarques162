@@ -1,6 +1,6 @@
-# 🧔🏾‍♂️ Olá, eu sou [Seu Nome]
+# Pedro Paulo Marques da Silva
 
-**`[Seu título profissional ou foco de atuação, ex: Desenvolvedor Full Stack | Entusiasta de Dados]`**
+**`[ Desenvolvedor Full Stack]`**
 
 Sou formado em [Sua Formação] e, atualmente, estou [descreva seu momento atual, ex: cursando pós-graduação, trabalhando em um projeto X, etc].
 
