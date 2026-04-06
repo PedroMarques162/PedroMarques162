@@ -23,7 +23,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas e, atualmente, estou na eq
          <img alt="total stars" 
          title="Total de estrelas" 
          src="https://custom-icon-badges.demolab.com/github/stars/[PedroMarques162]?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
-    <a href="https://www.linkedin.com/in/[SEU_LINKEDIN]"
+    <a href="https://www.linkedin.com/in/[[SEU_LINKEDIN](https://www.linkedin.com/in/pedro-paulo-marques-da-silva-5485b525a/)]"
         target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
          title="Vamos fazer uma conexão!" /></a>
