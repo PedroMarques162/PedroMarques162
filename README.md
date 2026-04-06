@@ -2,15 +2,13 @@
 
 **`[ Desenvolvedor Full Stack]`**
 
-Sou formado em [Sua Formação] e, atualmente, estou [descreva seu momento atual, ex: cursando pós-graduação, trabalhando em um projeto X, etc].
+Estou cursando Análise e Desenvolvimento de Sistemas e, atualmente, estou na equipe de TI do IDG, com o projeto na criação de um sitema de gestão de usuários(Vizinhos do Amanhã).
 
-Acredito que [Sua filosofia de trabalho ou frase de impacto]. Por isso, foco meus estudos em [seus objetivos de estudo ou carreira].
+📊 Estudos: 🐍PYTHON, 🐬SQL, ☕JAVA, 💛JAVASCRIPT, 💙HTML, 🧡CSS e 🤖IA.
 
-📊 Atualmente explorando: [Tecnologia 1], [Tecnologia 2], [Tecnologia 3].
-
-🛠️ Background técnico: [Sua experiência anterior, ex: Desenvolvimento web, análise de dados].
-
-💡 Buscando aplicar [Sua área de interesse] para resolver problemas reais de mercado.
+🛠️ Back-End: Desenvolvimentos de sistemas e automação de bots discord.
+✨ Front-End: Desenvolvimento via web.
+💡Futuramente Pós-Graduação em IA.
 
    <p align="left"> 
     <a href="https://github.com/[SEU_USUARIO_GITHUB]?tab=followers">
