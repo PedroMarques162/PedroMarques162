@@ -6,21 +6,23 @@ Estou cursando Análise e Desenvolvimento de Sistemas e, atualmente, estou na eq
 
 📊 Estudos: 🐍PYTHON, 🐬SQL, ☕JAVA, 💛JAVASCRIPT, 💙HTML, 🧡CSS e 🤖IA.
 
-🛠️ Back-End: Desenvolvimentos de sistemas e automação de bots discord.
-✨ Front-End: Desenvolvimento via web.
-💡Futuramente Pós-Graduação em IA.
+**🛠️ Back-End: Desenvolvimentos de sistemas e automação de bots discord**.
+
+**✨ Front-End: Desenvolvimento via web**.
+
+**💡Futuramente Pós-Graduação em IA**.
 
    <p align="left"> 
-    <a href="https://github.com/[SEU_USUARIO_GITHUB]?tab=followers">
+    <a href="https://github.com/[PedroMarques162]?tab=followers">
          <img 
          alt="followers" 
          title="Me siga no GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/followers/[SEU_USUARIO_GITHUB]?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+         src="https://custom-icon-badges.demolab.com/github/followers/[PedroMarques162]?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
          </a>
-    <a href="https://github.com/[SEU_USUARIO_GITHUB]?tab=repositories&sort=stargazers">
+    <a href="https://github.com/PedroMarques162]?tab=repositories&sort=stargazers">
          <img alt="total stars" 
          title="Total de estrelas" 
-         src="https://custom-icon-badges.demolab.com/github/stars/[SEU_USUARIO_GITHUB]?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+         src="https://custom-icon-badges.demolab.com/github/stars/[PedroMarques162]?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
     <a href="https://www.linkedin.com/in/[SEU_LINKEDIN]"
         target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
